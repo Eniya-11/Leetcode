@@ -1,4 +1,5 @@
 class Solution {
+  
     public int lengthOfLongestSubstring(String s) {
          boolean[] seen=new boolean[128];
         int start=0;
@@ -22,3 +23,4 @@ class Solution {
     }
     
 }
+    
